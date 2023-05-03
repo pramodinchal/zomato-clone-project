@@ -1,0 +1,9 @@
+.filters {
+  padding: 16px 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.filter-name {
+  margin-top: 4px;
+  color: rgb(191, 185, 185);
+}
